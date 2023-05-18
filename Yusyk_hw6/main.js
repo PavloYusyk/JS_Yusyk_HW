@@ -157,7 +157,7 @@ let allRed = cards.filter(card => card.color === 'red')
 console.log(allRed)
 let allDiamond = cards.filter(card => card.cardSuit === 'diamond')
 console.log(allDiamond)
-let over9 = cards.filter(card => (card.value >= '9' || +(card.value) >= 9))
+let over9 = cards.filter(cards => card.cardSuit ==='clubs' && (card.value >= '9' || +(card.value) >= 9))
 console.log(over9)
 
 // Взяти описану колоду карт, та за допомоги reduce упакувати всі карти по "мастях" в об'єкт
