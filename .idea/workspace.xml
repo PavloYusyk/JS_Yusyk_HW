@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9066c9d3-b773-46a0-bd45-448efebbf1a1" name="Changes" comment="hw 4">
-      <change afterPath="$PROJECT_DIR$/Yusyk_hw5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yusyk_hw5/main.js" afterDir="false" />
+    <list default="true" id="9066c9d3-b773-46a0-bd45-448efebbf1a1" name="Changes" comment="hw5">
+      <change afterPath="$PROJECT_DIR$/Yusyk_hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yusyk_hw6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yusyk_hw4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yusyk_hw4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yusyk_hw4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Yusyk_hw4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682965992391</updated>
       <workItem from="1682965993396" duration="8647000" />
-      <workItem from="1683569178556" duration="15517000" />
+      <workItem from="1683569178556" duration="24499000" />
     </task>
     <task id="LOCAL-00001" summary="new js">
       <created>1682966067913</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683749645795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw5">
+      <created>1684177418300</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684177418300</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +101,7 @@
     <MESSAGE value="hw 2" />
     <MESSAGE value="hw 3" />
     <MESSAGE value="hw 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 4" />
+    <MESSAGE value="hw5" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5" />
   </component>
 </project>
